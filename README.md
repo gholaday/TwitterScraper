@@ -3,4 +3,4 @@ A web scraper that takes a twitter hashtag on input and outputs a list of names 
 
 Here's a live demo:
 
-![demo gif](http://i.imgur.com/KOlsdpG.mp4)
+![demo gif](http://i.imgur.com/KOlsdpG.gifv)
